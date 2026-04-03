@@ -1,7 +1,7 @@
 # SEEL 4213 IoT Project
 
 ## Group name
-Precise Pangolin
+*Precise Pangolin*
 
 ## Group members
 1. Wong Ngei Ming
